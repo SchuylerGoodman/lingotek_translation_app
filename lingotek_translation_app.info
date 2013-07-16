@@ -1,0 +1,8 @@
+name = "Lingotek Translation"
+description = "The Lingotek Translation module makes it easy to instantly translate content directly within your Drupal site. Lingotek also provides professional translation services for organizations who need help getting their Drupal content translated. Our module seamlessly handles file transfer to translators, publication of translations on your Drupal site, and ongoing synchronization of your multilingual content."
+core = "7.x"
+
+apps[server] = "lingoapps"
+apps[manifests][] = "app/manifest.app"
+
+dependencies[] = "lingotek"

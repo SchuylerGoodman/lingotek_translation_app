@@ -1,0 +1,14 @@
+name = Lingotek
+description = The Lingotek Translation module makes it easy to instantly translate content directly within your Drupal site. Lingotek also provides professional translation services for organizations who need help getting their Drupal content translated. Our module seamlessly handles file transfer to translators, publication of translations on your Drupal site, and ongoing synchronization of your multilingual content.
+machine_name = lingotek
+version = 1.0
+downloadable = lingotek_translation_app 1.0
+author = Lingotek
+author_url = http://www.lingotek.com
+screenshots[] = Translation.png
+screenshots[] = Analytics.png
+screenshots[] = Billing.png
+logo = lingotek-icon.png
+dependencies[lingotek] = lingotek 7.x-4.x-dev
+downloadables[lingotek_translation_app 1.0] = https://github.com/SchuylerGoodman/lingotek_translation_app/tarball/master
+downloadables[lingotek 7.x-4.x-dev] = http://ftp.drupal.org/files/projects/lingotek-7.x-4.x-dev.tar.gz
