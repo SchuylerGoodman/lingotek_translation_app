@@ -10,5 +10,5 @@ screenshots[] = Analytics.png
 screenshots[] = Billing.png
 logo = lingotek-icon.png
 dependencies[lingotek] = lingotek 7.x-4.x-dev
-downloadables[lingotek_translation_app 1.0] = https://github.com/SchuylerGoodman/lingotek_translation_app/tarball/master
+downloadables[lingotek_translation_app 1.0] = https://github.com/SchuylerGoodman/lingotek_translation_app/tarball/master/lingotek_translation_app.tar.gz
 downloadables[lingotek 7.x-4.x-dev] = http://ftp.drupal.org/files/projects/lingotek-7.x-4.x-dev.tar.gz
